@@ -7,12 +7,12 @@ Aplicacion web completa para administrar libros con operaciones CRUD (crear, con
 ### Frontend
 - React + Vite
 - Axios
-- CSS moderno (estilo limpio y minimalista)
+- CSS moderno
 
 ### Backend
 - Node.js
 - Express
-- MySQL (`mysql2`)
+- MySQL
 - CORS + Dotenv
 
 ### Base de datos
@@ -176,7 +176,7 @@ Abre en navegador la URL que muestre Vite.
 
 Se utilizo IA como apoyo para:
 - Definir una estructura de proyecto modular y profesional.
-- Mejorar el estilo visual (CSS moderno y minimalista).
+- Mejorar el estilo visual.
 
 ## Buenas practicas aplicadas
 
